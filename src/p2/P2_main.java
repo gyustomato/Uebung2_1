@@ -9,5 +9,6 @@ public class P2_main {
 		if (i > 10) {
 			b = true;
 		}
+		System.out.println("i hat den Wert: "+ i + ", b hat den Wert:"+ b);
 	}
 }
